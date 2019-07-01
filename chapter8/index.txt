@@ -1,0 +1,2 @@
+The first section in this dir is more vector 8.12
+vector need to use namespace std so becase with what to include 
